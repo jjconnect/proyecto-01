@@ -1,0 +1,28 @@
+{
+    "inicio" : "Home",
+    "servicios" : "Services",
+    "quienes" : "About Us",
+    "contacto" : "Contact Us",
+
+    "pInicio": {
+        "tituloH1" : "What's new this year",
+        "tituloH3" : "¡Big offers this 2021!"
+    },
+
+    "pServicios": {
+        "tituloH1" : "Services",
+        "tituloH3-1" : "Headlight Restoration",
+        "tituloH3-2" : "Bumper Repair",
+        "tituloH3-3" : "Car Wash"
+    },
+
+    "pQuienes": {
+        "tituloH1" : "About Us"
+    },
+
+    "pContacto" : {
+        "tituloH1" : "Contact Us",
+        "tituloS1" : "Write to us: ",
+        "tituloS2" : "Phone Number"
+    }
+}

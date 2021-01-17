@@ -1,0 +1,29 @@
+{
+
+    "inicio" : "Inicio",
+    "servicios" : "Servicios",
+    "quienes" : "¿Quienes somos?",
+    "contacto" : "Contacto",
+
+    "pInicio": {
+        "tituloH1" : "Lo Nuevo de este Año",
+        "tituloH3" : "¡Este 2021 venimos con Grandes Ofertas!"
+    },
+
+    "pServicios": {
+        "tituloH1" : "Servicios",
+        "tituloH3-1" : "Restauración de Faros",
+        "tituloH3-2" : "Reparacion de Parachoques",
+        "tituloH3-3" : "Lavado de Vehículos"
+    },
+
+    "pQuienes": {
+        "tituloH1" : "¿Quienes Somos?"
+    },
+
+    "pContacto" : {
+        "tituloH1" : "Contacto",
+        "tituloS1" : "Escribenos a: ",
+        "tituloS2" : "Teléfono"
+    }
+}
