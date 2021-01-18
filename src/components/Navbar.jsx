@@ -25,9 +25,6 @@ const Navbar = (props) => {
                         <NavLink className="btn btn-primary me-2" to="/contacto">
                             {t('contacto')}
                         </NavLink>
-                        <NavLink className="btn btn-primary me-2" to="/panel">
-                            Panel
-                        </NavLink>
                         
                     </div>
                     <CambioIdioma></CambioIdioma>
